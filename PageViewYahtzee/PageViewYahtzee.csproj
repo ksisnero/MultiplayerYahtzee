@@ -59,7 +59,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Models\Dice.cs" />
     <Compile Include="Models\Player.cs" />
+    <Compile Include="Models\Scoring.cs" />
     <Compile Include="ViewModels\PlayerViewModel.cs" />
     <Compile Include="Views\PlayerView.xaml.cs">
       <DependentUpon>PlayerView.xaml</DependentUpon>

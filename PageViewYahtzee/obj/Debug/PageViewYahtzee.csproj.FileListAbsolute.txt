@@ -1,1 +1,2 @@
 c:\users\nschroeder\documents\visual studio 2015\Projects\DXApplication1\PageViewYahtzee\bin\Debug\PageViewYahtzee.exe.config
+C:\Users\nschroeder\Documents\GitHub\MultiplayerYahtzee\PageViewYahtzee\bin\Debug\PageViewYahtzee.exe.config
